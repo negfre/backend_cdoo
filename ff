@@ -1,0 +1,29 @@
+nombre_paciente:
+cod_ciente:
+precio:
+tipo_trabajo:	Servicio Express,	Cristales con montaje,	Cristales solamente,	Montaje,	Montaje Express (1 Hora),	Servicio.
+esfera_oiz:
+cilindro_oiz:
+eje_oiz:
+adicion_oiz:
+dnp_lejos_oiz:
+dnp_alt_oiz:
+esfera_ode:	
+cilindro_ode:
+eje_ode:
+adicion_ode:
+dnp_lejos_ode:
+dnp_alt_ode:
+tipo_cristal:	CRISTAL TRAIDO POR EL CLIENTE,	CR-39 Terminado,	AR Terminado,	Fotocromatico, AR Terminado,	Anti Blue Terminado,	Progresivo terminado claro,	Cristal marrón (sol),	Cristal negro (sol),	Cristal Espejado Azul,	Cristal Espejado Rojo,	Cristal Espejado Verde,	Cristal Espejado Amarillo,	Cristal Espejado Plata,	Visión sencilla CLARO,	Visión sencilla AR,	Visión sencilla CONVERSION,	Visión sencilla BLUE SHIELD,	Visión sencilla ESPEJADO AZUL,	Visón sencilla ESPEJADO VERDE,	Visión sencilla ESPEJADO PLATA,	Flat top Tallado CLARO,	Progresivo 1.56 ADDVANTAGE CLARO,	Progresivo 1.56 ADDVANTAGE AR,	Progresivo 1.56 ADDVANTAGE CONVERSION,	Progresivo 1.56 ADDVANTAGE BLUE SHIELD AR,	Progresivo 1.56 Computer ADDVANTAGE AR,	Progresivo 1.56 Computer ADDVANTAGE BLUE SHIELD AR.
+medida_horizontal:	
+medida_vertical:
+medida_puente:
+tipo_montura:
+servicios:	coloracion, 	Cambio patrón,	Plaquetas,	Tornillos,	Ajuste de Montura,	Traspaso de Cristales.
+color:	Amarillo,	Azul,	G-15,	Negro,	Marrón,	Rojo.
+porcentaje_coloracion:	10%,	30%,	50%,	80%.
+tipo_coloracion:	Degradado,	Completo.
+fecha_Solicitud
+fecha_entrega
+usuario_id
+obs
